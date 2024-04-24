@@ -1,3 +1,15 @@
+This script will remove all songs from your YouTube Music Library by iterating through the song list, clicking the three dots, and clicking "Remove From Library" until the list is empty.
+
+YouTube doesn't have a way to mass remove songs from the library.
+
+You can remove all likes by clicking on your profile -> Manage Your Google Account
+-> Data&Privacy -> My Activity -> Other Activity -> View Likes and Dislikes -> Delete All
+
+You Can delete history by going to Other Activity -> (Youtube History) Manage Activity -> Delete -> Delete All Time
+
+Doing these will clear all your likes and views, but not saved playlists or songs. I don't use playlists, so I only wrote and tested the script for songs.
+
+
 ***Tested in Firefox Version 125.0.2 (64-bit)***
 
 Go to https://music.youtube.com/library/songs
